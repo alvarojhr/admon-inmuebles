@@ -2,26 +2,33 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
-## Development server
+# Administración de edificios y condominios   ![image](https://user-images.githubusercontent.com/27290861/139138408-c0c9c063-ce6f-4b16-883d-cf40d2ea4f61.png)
+## Descripción del proyecto 🏠
+### Sistema para administrar varios edificios y condominios de casas, en el cual pueda registrar el nombre del edificio o conjunto, con sus principales datos:
+* Datos del administrador con firma digital
+* Datos de presidente, secretario y 3 vocales del directorio. 
+* Registro de bloques y unidades de vivienda con su porcentaje de coeficiente. 
+### Ingresar los propietarios de las unidades con sus principales datos (con la posibilidad de ingresar los datos adicionales de inquilinos en el caso de estar arrendada la unidad.) 
+* Ingresar el valor que cada copropietario debe cancelar mensualmente por administración y otros conceptos y posteriormente. 
+* Registrar su pago 
+* Fecha de pago 
+* Modo de pago: *emitir un recibo o factura.* 
+* Debe tener un apartado para registrar los gastos (facturas o recibos).  
+* Registrar los principales datos de las personas empleadas o trabajadoras del edificio o conjunto.
+* Un tablón de anuncios y reuniones. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Reportes de: 📋
+1. Facturas generadas, de los pagos y deudas, de los propietarios (inquilinos de haber).
+1. Certificado de estar al día en las administraciones.
+1. opció para firmar digitalmente por el administrador.
+1. Generar correos de recordatorio de pagos y correos generales.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Roles del equipo
+| Rol |Persona  |
+|--|--|
+| Scrum Master | Alexander Del Risco Morales|
+| Team | Horacio Silva Porras|
+| Team | Félix Stevens Castro Perez|
+| Team | Jackeline Ariza Barajas|
+| Team | Ayda Fabiola Hernandez Fajardo|
+| Team | Juan Carlos Jerez Morales|
