@@ -2,7 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
 
-# Administración de edificios y condominios   ![image](https://user-images.githubusercontent.com/27290861/139138408-c0c9c063-ce6f-4b16-883d-cf40d2ea4f61.png)
+# Administración de edificios y condominios  
+ ![image](https://user-images.githubusercontent.com/27290861/139138408-c0c9c063-ce6f-4b16-883d-cf40d2ea4f61.png)
 ## Descripción del proyecto 🏠
 ### Sistema para administrar varios edificios y condominios de casas, en el cual pueda registrar el nombre del edificio o conjunto, con sus principales datos:
 * Datos del administrador con firma digital
