@@ -32,3 +32,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | Team | Jackeline Ariza Barajas|
 | Team | Ayda Fabiola Hernandez Fajardo|
 | Team | Juan Carlos Jerez Morales|
+
+# Carpetas con imágenes del software instalado
+
+[Carpeta de imágenes Juan Carlos Jerez Morales](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
