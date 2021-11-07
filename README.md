@@ -36,4 +36,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Carpetas con imágenes del software instalado
 
-[Carpeta de imágenes Juan Carlos Jerez Morales](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
+[Juan Carlos Jerez Morales](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
