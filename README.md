@@ -34,6 +34,16 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | Team | Ayda Fabiola Hernandez Fajardo|
 | Team | Juan Carlos Jerez Morales|
 
+# Diagrama de Clases
+
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/93050072/140664487-c244d28a-f096-4617-a015-d75c1593a2c5.jpg)
+
 # Carpetas con imágenes del software instalado
 
 [Juan Carlos Jerez Morales](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
+
+
+
+
+
+
