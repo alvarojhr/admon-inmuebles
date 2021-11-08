@@ -24,6 +24,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 1. opció para firmar digitalmente por el administrador.
 1. Generar correos de recordatorio de pagos y correos generales.
 
+## Objetivo Comercial
+ADEC (Administración de Edificios y Condominios) es una herramienta que de manera fácil e intuitiva automatiza el ejercicio de la administración de bienes inmuebles sometidos al régimen de propiedad horizontal, permitiendo la emisión y gestión de los correspondientes recibos del pago de la cuota de administración.
+
 ## Roles del equipo
 | Rol |Persona  |
 |--|--|
@@ -34,7 +37,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | Team | Ayda Fabiola Hernandez Fajardo|
 | Team | Juan Carlos Jerez Morales|
 
-# Diagrama de Clases
+## Diagrama de Clases
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/93050072/140664487-c244d28a-f096-4617-a015-d75c1593a2c5.jpg)
 
