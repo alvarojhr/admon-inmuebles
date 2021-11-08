@@ -63,7 +63,7 @@ ADEC (Administración de Edificios y Condominios) es una herramienta que de mane
 
 [Pantallazos](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
 
-
+## 
 
 
 
