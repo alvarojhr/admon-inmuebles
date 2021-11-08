@@ -37,7 +37,20 @@ ADEC (Administración de Edificios y Condominios) es una herramienta que de mane
 | Team | Jackeline Ariza Barajas|
 | Team | Ayda Fabiola Hernandez Fajardo|
 | Team | Juan Carlos Jerez Morales|
-    
+
+## Backlog
+
+|Clave|  Nombre|
+|--|--|
+| ADEYC-9 |  Definir proyecto a realizar|
+| ADEYC-9 |  Crear cuentas en Github|
+| ADEYC-9 |  Modificar archivo README.md|
+| ADEYC-9 |  Compartir enlace de repositorio|
+| ADEYC-9 |  Hacer el fork del repositorio principal|
+| ADEYC-9 |  Crear un objetivo comercial para el proyecto|
+| ADEYC-9 |  crear diagrama de clases|
+| ADEYC-9 |  Crear el Wireframe del login de usuario|
+| ADEYC-9 |  Crear el Login de usuario|
 
 ## SPRINT 2
 
