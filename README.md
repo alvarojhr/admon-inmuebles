@@ -1,3 +1,4 @@
+## SPRINT 1
 # AdmonInmuebles
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
@@ -36,6 +37,10 @@ ADEC (Administración de Edificios y Condominios) es una herramienta que de mane
 | Team | Jackeline Ariza Barajas|
 | Team | Ayda Fabiola Hernandez Fajardo|
 | Team | Juan Carlos Jerez Morales|
+    
+
+## SPRINT 2
+
 
 ## Diagrama de Clases
 
@@ -43,7 +48,7 @@ ADEC (Administración de Edificios y Condominios) es una herramienta que de mane
 
 # Carpetas con imágenes del software instalado
 
-[Juan Carlos Jerez Morales](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
+[Pantallazos](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
 
 
 
