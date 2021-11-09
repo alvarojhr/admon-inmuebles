@@ -64,8 +64,10 @@ ADEC (Administración de Edificios y Condominios) es una herramienta que de mane
 [Capturas de pantalla](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
 
 ## Wireframe 
-[Wireframe Logion](https://www.figma.com/file/8m6py5RzDYMKupdRu8LksK/Untitled?node-id=0%3A1)
+[Wireframe Logion opcion 1](https://www.figma.com/file/8m6py5RzDYMKupdRu8LksK/Untitled?node-id=0%3A1)
 
 
+
+![Wireframe Logion opcion 2](https://user-images.githubusercontent.com/93050072/141002724-83749e26-e5b0-4f84-a60e-f58399f28bbf.jpeg)
 
 
