@@ -1,0 +1,7 @@
+Chicos a continuación les comparto algunos comentarios con respecto al sprint 1, este feedback no afecta la nota del sprint:
+
+1. La descripción del proyecto es clara y es entendible para cualquier lector lo que ofrece la solución. Super bien!
+
+2. El objetivo es comercial y atractivo, muy buen trabajo.
+
+3. A diferencia de la descripción y los objetivos, el product backlog nos hace falta refinarlo bastante. El product backlog no es un bloque de tareas, tiene una estructura y un formato. Por favor refinarlo lo más pronto posible y seguir trabajando en ello.
