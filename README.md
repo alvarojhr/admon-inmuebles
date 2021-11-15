@@ -1,4 +1,4 @@
-## SPRINT 1
+# SPRINT 1
 # AdmonInmuebles
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
@@ -52,19 +52,22 @@ ADEC (Administración de Edificios y Condominios) es una herramienta que de mane
 | ADEYC-9 |  Crear el Wireframe del login de usuario|
 | ADEYC-9 |  Crear el Login de usuario|
 
-## SPRINT 2
+# SPRINT 2
 
 
 ## Diagrama de Clases
 
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/93050072/140664487-c244d28a-f096-4617-a015-d75c1593a2c5.jpg)
 
-# Carpetas con imágenes del software instalado
+## Carpetas con imágenes del software instalado
 
 [Capturas de pantalla](https://drive.google.com/drive/folders/1HcFS2ZFPNxw3KB5fGjLreIcSHvwSMMJR?usp=sharing)
 
-## 
+## Wireframe 
+[Wireframe Login opcion 1](https://www.figma.com/file/8m6py5RzDYMKupdRu8LksK/Untitled?node-id=0%3A1)
 
+[Wireframe Login opcion 2](https://user-images.githubusercontent.com/93050072/141002724-83749e26-e5b0-4f84-a60e-f58399f28bbf.jpeg)
 
+[Wireframe Login Movil](https://user-images.githubusercontent.com/93050072/141005897-cd405236-7474-4bf0-b0f5-7e9dbeb86914.jpeg)
 
 
