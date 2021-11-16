@@ -1,0 +1,9 @@
+Chicos a continuación les comparto algunos comentarios con respecto al sprint 2:
+
+1. Evidentemente al diagrama de clases le hace falta bastante trabajo, se encuentran algunos campos que están pendientes por determinar y es muy importante determinarlos lo más pronto posible. Por otro lado hay cosas que no se evidencian aunque se mencionaron en la descripción del proyecto, por ejemplo, no es muy claro donde se va a almacenar los datos del administrador, presidente, secretario; no es muy claro donde se almacenará toda la información de facturación y demás.
+
+Por favor trabajemos fuerte en el refinamiento de este diagrama de clases porque si no más adelante tendrán muchas trabas en el desarrollo y la implementación de la bd.
+
+2. De los wireframes solo se evidencia el wireframe de login, no se evidencian los de las demás funcionalidades.
+
+3. Los pantallazos si se evidencian los de todo el equipo. Muy bien por ello 👏.
